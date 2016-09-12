@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7D054D921D844253009D0232 /* Contact.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D054D911D844253009D0232 /* Contact.swift */; };
 		7D06DE2B1D83BD860043DEEE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D06DE2A1D83BD860043DEEE /* AppDelegate.swift */; };
 		7D06DE2D1D83BD860043DEEE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D06DE2C1D83BD860043DEEE /* ViewController.swift */; };
 		7D06DE301D83BD860043DEEE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7D06DE2E1D83BD860043DEEE /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7D054D911D844253009D0232 /* Contact.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Contact.swift; sourceTree = "<group>"; };
 		7D06DE271D83BD860043DEEE /* Contact Information App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Contact Information App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7D06DE2A1D83BD860043DEEE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7D06DE2C1D83BD860043DEEE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 			children = (
 				7D06DE2A1D83BD860043DEEE /* AppDelegate.swift */,
 				7D06DE2C1D83BD860043DEEE /* ViewController.swift */,
+				7D054D911D844253009D0232 /* Contact.swift */,
 				7D06DE2E1D83BD860043DEEE /* Main.storyboard */,
 				7D06DE341D83BD860043DEEE /* Assets.xcassets */,
 				7D06DE361D83BD860043DEEE /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7D054D921D844253009D0232 /* Contact.swift in Sources */,
 				7D06DE331D83BD860043DEEE /* Contact_Information_App.xcdatamodeld in Sources */,
 				7D06DE2D1D83BD860043DEEE /* ViewController.swift in Sources */,
 				7D06DE2B1D83BD860043DEEE /* AppDelegate.swift in Sources */,
@@ -290,6 +294,7 @@
 				7D06DE3E1D83BD860043DEEE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
